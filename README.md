@@ -1,4 +1,4 @@
 # eggcart
 Twelve eggs in an array
 
-Since an array is of fixed size what better to use it with than an array!
+Since an array is of fixed size we can store our eggs there and check it with a for each loop!
