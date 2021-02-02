@@ -9,7 +9,7 @@ public class Eggcarton
 
     foreach (int egg in eggcart)
     {
-      Console.WriteLine("Egg number: "+egg);
+      Console.WriteLine("Egg number: " + egg);
     }
   }
 }
